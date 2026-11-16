@@ -1,3 +1,5 @@
+> **SLETTES (16. november 2026).** Markeret til sletning efter oprydning; bruges ikke længere og kan arkiveres eller slettes.
+
 # AI Growth & Code Bot
 
 An AI-powered growth and engineering assistant for WordPress, WooCommerce, and dropshipping. It brings together practical development guidance, ecommerce research, and modern search-visibility strategy to help turn research and technical execution into a repeatable path to business growth.
